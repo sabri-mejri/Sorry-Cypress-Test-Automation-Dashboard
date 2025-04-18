@@ -43,7 +43,7 @@ Follow these steps to set up and run the Sorry Cypress dashboard:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/spirentes/Sorry-Cypress-Test-Automation-Dashboard.git
+git clone https://github.com/sabri-mejri/Sorry-Cypress-Test-Automation-Dashboard.git
 cd Sorry-Cypress-Test-Automation-Dashboard
 ```
 
