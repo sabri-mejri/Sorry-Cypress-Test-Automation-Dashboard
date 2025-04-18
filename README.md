@@ -84,7 +84,7 @@ docker-compose up -d
 
 ### 4. Access the Dashboard
 
-Navigate to `http://<your-ip>:8080` (e.g., `http://192.168.1.18:8080`) in your browser to view the Sorry Cypress dashboard. Your projects (e.g., `first-test`) should be listed.
+Navigate to `http://<your-ip>:8080` (e.g., `http://localhost:8080`) in your browser to view the Sorry Cypress dashboard. Your projects (e.g., `first-test`) should be listed.
 
 ---
 
